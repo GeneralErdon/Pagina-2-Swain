@@ -7,12 +7,12 @@
 }
 @font-face {
   font-family: "BloodCrow" ;
-  src: url(/fuentes/bloodcrow.ttf);
+  src: url(fuentes/bloodcrow.ttf);
 
 }
 @font-face {
   font-family: "Elegant";
-  src: url(/fuentes/elegant-type.ttf);
+  src: url(fuentes/elegant-type.ttf);
 }
 
 * {
@@ -31,7 +31,7 @@ body {
   font-size: 1.2rem;
   min-height: 100%;
   background-color: black;
-  background-image: url(/imagenes/noxus_fondo.jpg);
+  background-image: url(imagenes/noxus_fondo.jpg);
   background-size: cover;
   background-attachment:fixed;
   
